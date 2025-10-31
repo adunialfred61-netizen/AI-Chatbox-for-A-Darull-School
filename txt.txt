@@ -1,0 +1,8 @@
+pip install faiss-cpu
+Collecting faiss-cpu
+
+pip install sentence-transformers
+pip install langchain
+pip install langchain-community
+
+ pip install gradio
